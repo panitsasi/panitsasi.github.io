@@ -1,7 +1,7 @@
 
 .circle-image {
   border-radius: 50%;
-  width: 50vw; /* 25% of viewport width */
+  width: 35vw; /* 25% of viewport width */
   object-fit: cover;
 }
 
