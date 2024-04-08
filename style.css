@@ -200,3 +200,42 @@ footer .social-links {
 footer .social-links a:not(:last-child) {
   margin-right: 15px;
 }
+
+
+/* General styling for the container */
+.col-lg-7 {
+    font-family: 'Arial', sans-serif; /* You can choose a different font like 'Helvetica', 'Verdana', etc. */
+    max-width: 650px; /* Adjust the width as needed */
+    margin: 0 auto; /* Centers the container */
+    padding: 20px;
+    background-color: #f9f9f9; /* A subtle background color */
+    border-radius: 8px; /* Optional: adds rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: adds a subtle shadow */
+}
+
+/* Styling for headings */
+.about-heading {
+    font-size: 28px; /* Larger font size for the heading */
+    color: #333; /* Dark color for better readability */
+    margin-bottom: 15px; /* Adds space below the heading */
+    border-bottom: 2px solid #eee; /* Adds a subtle line below the heading */
+    padding-bottom: 10px; /* Adds space between the line and the text */
+}
+
+/* Styling for the paragraph text */
+.about-text {
+    font-size: 16px; /* Adjust the font size as needed */
+    line-height: 1.6; /* Increases line spacing for better readability */
+    color: #666; /* A lighter shade for the text */
+    margin-bottom: 15px; /* Adds space between paragraphs */
+    text-align: justify; /* Justifies the text for a cleaner look */
+}
+
+/* Styling for the 'News' section */
+b {
+    font-size: 18px; /* Slightly larger font size for bold text */
+    color: #333; /* Dark color for emphasis */
+    display: block; /* Makes the bold text appear on a new line */
+    margin-top: 20px; /* Adds space above the news section */
+}
+
