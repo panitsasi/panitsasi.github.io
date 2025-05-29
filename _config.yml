@@ -3,84 +3,23 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
-# Basic Site Settings
-author:
-  # Biographic information
-  avatar           : "profile.jpg" 
-  title            : "Ioannis Panitsas"
-  title_seperator  : "-"
-  name             : "Ioannis Panitsas"
-  pronouns         : 
-  bio              : "PhD Candidate in Electrical and Computer Engineering, Yale University"
-  location         : "New Haven, CT"
-  employer         : "Yale University"
-  uri              : 
-  email            : "ioannis.panitsas@yale.edu"
-
-  # Academic websites
-  academia         : 
-  arxiv            : 
-  googlescholar    : "https://scholar.google.com/citations?user=HZ5MwUQAAAAJ&hl=el"
-  impactstory      : 
-  orcid            : 
-  semantic         : 
-  pubmed           : 
-  researchgate     : 
-  scopus           : 
-
-  # Repositories and software development
-  bitbucket        : 
-  codepen          : 
-  dribbble         : 
-  github           : "panitsasi"
-  kaggle           : 
-  stackoverflow    : 
-  linkedin         : "Ioannis Panitsas"
-
-  # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
-
-# Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+# `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+locale                   : "en-US"
+title                    : "Ioannis Panitsas"
+title_separator          : "-"
+name                     : &name "Ioannis Panitsas"
+description              : &description "personal description"
+url                      : https://panitsasi.github.io 
+baseurl                  : "" 
+repository               : "panitsasi/panitsasi.github.io"
+teaser                   : 
+breadcrumbs              : false 
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false      #change to true to add link to talkmap on talks page
+read_more                : "disabled" 
+talkmap_link             : false 
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -108,16 +47,13 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
-
 
 # SEO Related
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
-
 
 # Social Sharing
 twitter:
@@ -137,9 +73,48 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-universal" 
   google:
     tracking_id          :
+
+
+# Site Author
+author:
+  name             : "Ioannis Panitsas"
+  avatar           : "profile.jpg"
+  bio              : "PhD candidate in Electrical and Computer Engineering at Yale University"
+  location         : "New Haven, CT"
+  employer         :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=HZ5MwUQAAAAJ&hl=el"
+  email            :
+  researchgate     :  
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "panitsasi"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : 
+  lastfm           :
+  linkedin         : "Ioannis Panitsas"
+  orcid            : 
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : 
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files
@@ -152,26 +127,23 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
-  - .github
   - .jekyll-assets-cache
   - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
-  - CHANGELOG
-  - Capfile
   - config
-  - Dockerfile
-  - Gemfile
-  - Gruntfile.js
   - gulpfile.js
-  - LICENSE
-  - local
   - log
   - node_modules
-  - package.json*
-  - Rakefile
-  - README
+  - package.json
   - tmp
   - vendor
 keep_files:
@@ -201,15 +173,15 @@ kramdown:
   enable_coderay: false
 
 
-# These settings control the types of collections used by the template
+# Collections
 collections:
-  teaching:
+  services:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -217,7 +189,7 @@ collections:
     permalink: /:collection/:path/
 
 
-# These settings control how pages and collections are included in the site
+# Defaults
 defaults:
   # _posts
   - scope:
@@ -240,7 +212,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: services
     values:
       layout: single
       author_profile: true
@@ -258,7 +230,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
@@ -273,7 +245,6 @@ defaults:
       author_profile: true
       share: true
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -284,25 +255,22 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
 plugins:
-  - jekyll-feed
-  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
   - jekyll-redirect-from
-  - jemoji
-
-# Mimic GitHub Pages with --safe
+# mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-feed
-  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-redirect-from
+  - jekyll-gist
+  - jekyll-feed
   - jemoji
 
 

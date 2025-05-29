@@ -23,14 +23,14 @@ Design, deployment, and validation of data-driven optimization algorithms in ove
 
 - **May 2025:** Participated in the CyberPOWDER Workshop at the University of Utah and presented my research to the POWDER team.
 
-- **February 2025:** Our paper *“D2Q Synchronizer: Distributed SDN Synchronization for Time-Sensitive Applications”* was accepted to the **IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN) 2025**, May 26–29, Barcelona, Spain.
+- **February 2025:** Our paper “D2Q Synchronizer: Distributed SDN Synchronization for Time-Sensitive Applications” was accepted to the IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN) 2025, May 26–29, Barcelona, Spain.
 
-- **January 2025:** Our paper *“JamShield: A Machine Learning Detection System for Over-the-Air Jamming Attacks”* was accepted to the **IEEE International Conference on Communications (ICC) 2025**, June 8–12, Montreal, Canada.
+- **January 2025:** Our paper “JamShield: A Machine Learning Detection System for Over-the-Air Jamming Attacks” was accepted to the IEEE International Conference on Communications (ICC) 2025, June 8–12, Montreal, Canada.
 
-- **December 2024:** Released the *JamShield Dataset* on **IEEE DataPort** for jamming attack detection research.
+- **December 2024:** Released the JamShield Dataset on IEEE DataPort for jamming attack detection research.
 
-- **August 2024:** Attended the **NSF OAIC Workshop** at Mississippi State University to explore AI-driven RAN controller development and testing.
+- **August 2024:** Attended the NSF OAIC Workshop at Mississippi State University and presented my research.
 
-- **June 2024:** Participated in the **Colosseum Young Gladiators Workshop** at Northeastern University and presented my research to the Colosseum team.
+- **June 2024:** Participated in the Colosseum Young Gladiators Workshop at Northeastern University and presented my research to the Colosseum team.
 
-- **January 2023:** Our paper *“Cyber-twin: Digital Twin-Boosted Autonomous Attack Detection for Vehicular Ad-Hoc Networks”* was accepted to the **IEEE International Conference on Communications (ICC) 2024**, June 9–13, Denver, CO, USA.
+- **January 2023:** Our paper “Cyber-twin: Digital Twin-Boosted Autonomous Attack Detection for Vehicular Ad-Hoc Networks” was accepted to the IEEE International Conference on Communications (ICC) 2024, June 9–13, Denver, CO, USA.
