@@ -13,11 +13,8 @@ I am a PhD candidate in the Department of Electrical and Computer Engineering at
 **Network Optimization and Control:**
 Reinforcement learning techniques for closed-loop control and optimization.
 
-**Secure Wireless Networking:**
+**Network Security:**
 Deep learning-based methods for detecting and mitigating security threats in wireless networks.
-
-**System Prototyping:**
-Design and deployment of network algorithms in lab network systems for experimental validation.
 
 
 ## News
