@@ -6,5 +6,6 @@ type: "Undergraduate course"
 excerpt: "Teaching Assistant, Fall 2025 – Topics: Information theory and coding, network systems, signals and systems, estimation and learning."
 venue: "Yale University, Electrical Engineering (EENG)"
 term: "Fall 2025"
+date: 2025-09-01
 location: "New Haven, CT"
 ---
