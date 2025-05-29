@@ -1,8 +1,8 @@
 ioannis:
   name        : "Ioannis Panitsas"
   title       : "PhD Candidate in Electrical and Computer Engineering, Yale University"
-  avatar      : "/images/your-photo.jpg"  # Optional, if you have an image
-  bio         : "New Haven, CT"
+  avatar      : "/images/your-photo.jpg"  #
+  bio         : ""
   location    : "New Haven, CT"
   links:
     - label: "LinkedIn"
