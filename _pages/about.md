@@ -11,13 +11,14 @@ I am a PhD candidate in the Department of Electrical and Computer Engineering at
 ## Research Interests
 
 **Network Optimization and Control:**
-Reinforcement learning techniques for closed-loop control, traffic engineering, and resource allocation in dynamic wireless networks.
+Reinforcement learning techniques for closed-loop control and optimization.
 
 **Secure Wireless Networking:**
-Deep learning-based methods for detecting and mitigating jamming attacks and other security threats in 5G/6G systems.
+Deep learning-based methods for detecting and mitigating security threats in wireless networks.
 
 **System Prototyping:**
-Design, deployment, and validation of data-driven optimization algorithms in over-the-air testbeds for next-generation wireless networks.
+Design and deployment of network algorithms in lab network systems for experimental validation.
+
 
 ## News
 
