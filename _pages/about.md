@@ -10,7 +10,7 @@ I am a PhD candidate in the Department of Electrical and Computer Engineering at
 
 ## Research Interests
 
-**Network Optimization and Control:**
+**Network Optimization:**
 Reinforcement learning techniques for closed-loop control and optimization.
 
 **Network Security:**
