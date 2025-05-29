@@ -9,14 +9,16 @@
 # Basic Site Settings
 author:
   # Biographic information
-  avatar           : "profile.jpg"  # Make sure this image exists in your repo
+  avatar           : "profile.jpg" 
+  title            : "Ioannis Panitsas"
+  title_seperator  : "-"
   name             : "Ioannis Panitsas"
   pronouns         : 
   bio              : "PhD Candidate in Electrical and Computer Engineering, Yale University"
   location         : "New Haven, CT"
   employer         : "Yale University"
   uri              : 
-  email            : 
+  email            : "ioannis.panitsas@yale.edu"
 
   # Academic websites
   academia         : 
