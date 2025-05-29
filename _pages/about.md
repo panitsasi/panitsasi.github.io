@@ -12,10 +12,10 @@ My research lies broadly at the intersection of wireless communications, machine
 
 ## Research Interests
 
-- **SDN Synchronization:**  
+- **Distributed SDN Synchronization:**  
   Reinforcement learning methods for minimizing control plane overhead among distributed SDN controllers.
 
-- **Network Slicing Deployment and Classification:**  
+- **Network Slicing Placement and Traffic Classification:**  
   Deep learning-based techniques for optimal VNF placement, network resource management, and traffic classification in 5G/6G networks.
 
 - **Jamming Detection and Mitigation:**  
