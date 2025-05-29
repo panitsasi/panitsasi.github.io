@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-fall-eeng202
 venue: "Yale University, Electrical Engineering (EENG)"
-date: Fall 2025
+term: "Fall 2025"
 location: "New Haven, CT"
 ---
 

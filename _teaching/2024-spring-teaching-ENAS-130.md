@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2024-spring-enas1300
 excerpt: "Teaching Assistant, Spring 2024 – Topics: C, C++, MATLAB, numerical methods, and data analysis."
 venue: "Yale University, Engineering and Applied Science (ENAS)"
-date: Spring 2024
+term: "Spring 2024"
 location: "New Haven, CT"
 ---
 
