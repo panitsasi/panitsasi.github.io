@@ -1,8 +1,8 @@
----
+<!-- ---
 permalink: /
 title: "Ioannis Panitsas"
 author_profile: true
----
+--- -->
 
 ## About Me
 
