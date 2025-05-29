@@ -1,18 +1,16 @@
-# Authors
-
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+ioannis:
+  name        : "Ioannis Panitsas"
+  title       : "PhD Candidate in Electrical and Computer Engineering, Yale University"
+  avatar      : "/images/your-photo.jpg"  # Optional, if you have an image
+  bio         : "New Haven, CT"
+  location    : "New Haven, CT"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/ioannis-panitsas-255452169/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/panitsasi"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=HZ5MwUQAAAAJ&hl=el"
