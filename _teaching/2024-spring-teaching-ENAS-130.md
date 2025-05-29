@@ -1,10 +1,11 @@
 ---
-title: "ENAS 1300 – Introduction to Computing for Engineers and Scientists"
+title: "ENAS 130 – Introduction to Computing for Engineers and Scientists"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-spring-enas1300
-venue: "Yale University, Department of Electrical and Computer Engineering"
-date: 2024-01-01
+excerpt: "Teaching Assistant, Spring 2024 – Topics: C, C++, MATLAB, numerical methods, and data analysis."
+venue: "Yale University, Engineering and Applied Science (ENAS)"
+date: 2024
 location: "New Haven, CT"
 ---
 
