@@ -6,9 +6,9 @@ author_profile: true
 
 ## About Me
 
-I am a PhD student at the Electrical and Computer Engineering Department, Yale University, New Haven, CT. I started my PhD in Fall 2022 under the supervision of **Prof. Leandros Tassiulas**. My research lies broadly at the intersection of wireless communications, machine learning, and network security.
+I am a PhD student in the Electrical and Computer Engineering Department at Yale University, based in New Haven, CT. I began my PhD in Fall 2022 under the supervision of [Prof. Leandros Tassiulas](https://engineering.yale.edu/research-and-faculty/faculty-directory/leandros-tassiulas). I am a member of the [SmartNets Research Group](https://smartnets.yale.edu/) at the Yale Institute for Network Science (YINS). 
 
----
+My research lies broadly at the intersection of wireless communications, machine learning, and network security, with a focus on next-generation network architectures.
 
 ## Research Interests
 
