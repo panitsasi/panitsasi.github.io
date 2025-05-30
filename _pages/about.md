@@ -20,8 +20,6 @@ Deep learning-based methods for detecting and mitigating security threats in wir
 
 - **January 2025:** Our paper “JamShield: A Machine Learning Detection System for Over-the-Air Jamming Attacks” was accepted to the IEEE International Conference on Communications (ICC) 2025, June 8–12, Montreal, Canada.
 
-- **December 2024:** Released the JamShield Dataset on IEEE DataPort for jamming attack detection research.
-
 - **August 2024:** Attended the NSF OAIC Workshop at Mississippi State University and presented my research.
 
 - **June 2024:** Participated in the Colosseum Young Gladiators Workshop at Northeastern University and presented my research to the Colosseum team.
