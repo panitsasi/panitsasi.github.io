@@ -5,8 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Selected Talks
-
 * **May 2025:** Presented my research at the CyberPOWDER Workshop, University of Utah, Salt Lake City, Utah, USA.
 
 * **June 2024:** Presented my research at the Colosseum Workshop, Northeastern University, Boston, Massachusetts, USA.
