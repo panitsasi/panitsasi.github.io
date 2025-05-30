@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Please find my full publication list at [my Google Scholar profile](https://scholar.google.com/citations?user=XiXOUsMAAAAJ&hl=en&oi=ao).
+Please find my full publication list at [my Google Scholar profile](https://scholar.google.com/citations?user=HZ5MwUQAAAAJ&hl).
 
 ## Selected Publications:
 * **Ioannis Panitsas**\*, Yagmur Yigit\*, Leandros Tassiulas, Leandros Maglaras, Berk Canberk, “JamShield: A Machine Learning Detection System for Over-the-Air Jamming Attacks,” *IEEE International Conference on Communications (ICC)*, 2025. [pdf](/files/JamShield__A_Machine_Learning_Detection_System_for_Over_the_Air_Jamming_Attacks.pdf)
