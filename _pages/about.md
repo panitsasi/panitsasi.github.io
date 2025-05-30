@@ -13,7 +13,7 @@ Design of machine learning and reinforcement learning algorithms for optimizing 
 Development of robust, data-driven techniques for detecting and mitigating adversarial attacks in wireless networks.
 
 **System Implementation and Experimental Evaluation:**  
-Prototype development and deployment of AI-driven network systems on real-world wireless testbeds, with emphasis on scalability, efficiency, and reproducibility.
+Prototype development and deployment of AI-native network algorithms on real-world wireless testbeds, with emphasis on scalability, efficiency, and reproducibility.
 
 ## News
 - **May 2025:** Participated in the CyberPOWDER Workshop at the University of Utah and presented my research to the POWDER team.
