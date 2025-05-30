@@ -19,7 +19,7 @@ Please find my full publication list at [my Google Scholar profile](https://scho
 
 * **Ioannis Panitsas**, Tolga Atalay, Dragoslav Stojadinovic, Angelos Stavrou, Leandros Tassiulas, “Optimizing Slice Placement in Distributed 5G Cloud Infrastructures.” *Preprint available soon.*
 
-* **Ioannis Panitsas**\*, **Iason Ofeidis**\*, Leandros Tassiulas, “FedJam: Distributed Multi-Modal Jamming Detection with Privacy-Preserving Learning.” *Preprint available soon.*
+* **Ioannis Panitsas**\*, Iason Ofeidis, Leandros Tassiulas, “FedJam: Distributed Multi-Modal Jamming Detection with Privacy-Preserving Learning.” *Preprint available soon.*
 
 * Austin Feng, Andreas Varvarigos, **Ioannis Panitsas**, Daniela Fernandez, Jinbiao Wei, Jialin Chen, Ali Maatouk, Leandros Tassiulas, Rex Ying, “TelecomTS: A Multi-Modal Dataset for Time-Series and Language Analysis in Applied Engineering.” *Preprint available soon.*
 
