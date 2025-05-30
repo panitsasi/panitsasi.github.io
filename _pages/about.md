@@ -6,12 +6,14 @@ author_profile: true
 I am a PhD candidate in the Department of Electrical and Computer Engineering at Yale University and a member of the [SmartNets research group](https://smartnets.yale.edu/) at the Yale Institute for Network Science (YINS). I began my PhD in Fall 2022 under the supervision of [Prof. Leandros Tassiulas](https://engineering.yale.edu/research-and-faculty/faculty-directory/leandros-tassiulas).   My research lies broadly at the intersection of wireless communications, machine learning, and network security.
 
 ## Research Interests
-**Network Optimization:**
-Reinforcement learning techniques for closed-loop control and optimization.
+**AI for Networked Systems:**  
+Design of machine learning and reinforcement learning algorithms for optimizing control, resource allocation, and performance in next-generation networks.
 
-**Network Security:**
-Deep learning-based methods for detecting and mitigating security threats in wireless networks.
+**Wireless Network Security:**  
+Development of robust, data-driven techniques for detecting and mitigating adversarial attacks in wireless networks.
 
+**System Implementation and Experimental Evaluation:**  
+Prototype development and deployment of AI-driven network systems on real-world wireless testbeds, with emphasis on scalability, efficiency, and reproducibility.
 
 ## News
 - **May 2025:** Participated in the CyberPOWDER Workshop at the University of Utah and presented my research to the POWDER team.
