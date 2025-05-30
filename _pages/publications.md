@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Full List:
-
 Please find my full publication list at [my Google Scholar profile](https://scholar.google.com/citations?user=XiXOUsMAAAAJ&hl=en&oi=ao).
 
 ## Selected Publications:

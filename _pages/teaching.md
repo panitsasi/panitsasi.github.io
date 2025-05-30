@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: ""
+title: "Teaching Experience"
 permalink: /teaching/
 author_profile: true
 ---
-
-## Teaching Experience
 
 **ENAS 130 – Introduction to Computing for Engineers and Scientists**  
 Undergraduate course, Yale University, Engineering and Applied Science (ENAS), Spring 2025  
