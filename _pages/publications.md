@@ -14,16 +14,24 @@ Please find my full publication list at [my Google Scholar profile](https://scho
 * Yagmur Yigit, **Ioannis Panitsas**, Leandros Maglaras, Leandros Tassiulas, Berk Canberk, “Cyber-Twin: Digital Twin-boosted Autonomous Attack Detection for Vehicular Ad-Hoc Networks,” *IEEE International Conference on Communications (ICC)*, 2024. [pdf](/files/Cyber_Twin_Digital_Twin_Boosted_Autonomous_Attack_Detection_for_Vehicular_Ad-Hoc_Networks.pdf)
 
 ## Preprints:
+- **I. Panitsas**, T. Atalay, D. Stojadinovic, A. Stavrou, and L. Tassiulas.  
+  *“5GC-Bench: A Framework for Stress-Testing and Benchmarking 5G Core VNFs.”*  
+  Preprint, available soon.  
 
-* **Ioannis Panitsas**, Akrit Mudvari, Ali Maatouk, Leandros Tassiulas, “A Deep and Transfer Learning Approach for Handover Management in O-RAN.” *Preprint available soon.*
+- **I. Panitsas**, T. Atalay, D. Stojadinovic, A. Stavrou, and L. Tassiulas.  
+  *“SlicePilot: Demystifying Network Slice Placement in Heterogeneous Cloud Infrastructures.”*  
+  Preprint, available soon.  
 
-* **Ioannis Panitsas**, Tolga Atalay, Dragoslav Stojadinovic, Angelos Stavrou, Leandros Tassiulas, “Optimizing Slice Placement in Distributed Cloud Infrastructures.” *Preprint available soon.*
+- **I. Panitsas***, I. Ofeidis*, and L. Tassiulas.  
+  *“FedJam: Multi-Modal Federated Learning Framework for Jamming Detection.”*  
+  Preprint, available soon.  
 
-* **Ioannis Panitsas**\*, Iason Ofeidis\*, Leandros Tassiulas, “FedJam: Distributed Multi-Modal Jamming Detection with Privacy-Preserving Learning.” *Preprint available soon.*
+- **I. Panitsas**, A. Mudvari, A. Maatouk, and L. Tassiulas.  
+  *“A Deep and Transfer Learning Approach for Handover Management in O-RAN.”*  
+  Preprint, available soon.  
 
-* **Ioannis Panitsas**, Akrit Mudvari, Leandros Tassiulas, “Learning Adaptive Synchronization Policies for Distributed SDN Controllers.” *Preprint available soon.*
-
-* Austin Feng, Andreas Varvarigos, **Ioannis Panitsas**, Daniela Fernandez, Jinbiao Wei, Jialin Chen, Ali Maatouk, Leandros Tassiulas, Rex Ying, “TelecomTS: A Multi-Modal Dataset for Time-Series and Language Analysis in Applied Engineering.” *Preprint available soon.*
-
+- A. Feng, A. Varvarigos, **I. Panitsas**, D. Fernandez, J. Wei, J. Chen, A. Maatouk, L. Tassiulas, and R. Ying.  
+  *“TelecomTS: A Multi-Modal Dataset for Time-Series and Language Analysis in Applied Engineering.”*  
+  Preprint, available soon.  
 
 \*equal contribution
