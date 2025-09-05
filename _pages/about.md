@@ -4,14 +4,16 @@ title: "About me"
 author_profile: true
 ---
 
-I am a PhD candidate in the Department of Electrical and Computer Engineering at Yale University and a member of the [SmartNets research group](https://smartnets.yale.edu/) at the Yale Institute for Network Science (YINS). I began my PhD in Fall 2022 under the supervision of [Prof. Leandros Tassiulas](https://engineering.yale.edu/research-and-faculty/faculty-directory/leandros-tassiulas). My research lies broadly at the intersection of wireless communications, machine learning, and network security.
+I am a PhD candidate in the Department of Electrical and Computer Engineering at Yale University and a member of the [SmartNets research group](https://smartnets.yale.edu/) at the Yale Institute for Network Science (YINS). I began my PhD in Fall 2022 under the supervision of [Prof. Leandros Tassiulas](https://engineering.yale.edu/research-and-faculty/faculty-directory/leandros-tassiulas). My research lies at the intersection of cellular networks and machine learning.
 
-## Research Interests
+## Research Interests  
+
 **AI for Networked Systems:**  
-Design of machine learning algorithms for optimizing control, resource allocation, and performance in next-generation networks.
+Development of advanced machine learning methods to optimize control, resource allocation, and performance in next-generation cellular networks.  
 
-**Wireless Network Security:**  
-Development of robust, data-driven techniques for detecting and mitigating adversarial attacks in wireless networks.
+**Cellular Network Security:**  
+Design of resilient techniques for the detection and mitigation of adversarial threats in cellular networks.  
+
 
 ## News
 
