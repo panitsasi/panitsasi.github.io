@@ -6,16 +6,13 @@ author_profile: true
 
 I am a PhD candidate in the Department of Electrical and Computer Engineering at Yale University and a member of the [SmartNets research group](https://smartnets.yale.edu/) at the Yale Institute for Network Science (YINS). I began my PhD in Fall 2022 under the supervision of [Prof. Leandros Tassiulas](https://engineering.yale.edu/research-and-faculty/faculty-directory/leandros-tassiulas). My research lies at the intersection of cellular networks and machine learning.
 
-## Research Interests  
-
-**AI for Networked Systems:**  
-Development of advanced machine learning methods to optimize control, resource allocation, and performance in next-generation cellular networks.  
-
-**Cellular Network Security:**  
-Design of resilient techniques for the detection and mitigation of adversarial threats in cellular networks.  
-
-
 ## News
+
+- **Spring 2026:** Joining Nokia Bell Labs (Murray Hill, New Jersey) as a Wireless Systems Researcher for the Spring semester.
+- 
+- **December 2025:** Our paper *“FedJam: Multimodal Federated Learning Framework for Jamming Detection”* was accepted to the IEEE Conference on Computer Communications (INFOCOM) 2026, May 18–21, Tokyo, Japan.
+
+- **December 2025:** Our paper *“SlicePilot: Demystifying Network Slice Placement in Heterogeneous Cloud Infrastructures”* was accepted to the IEEE Conference on Computer Communications (INFOCOM) 2026, May 18–21, Tokyo, Japan.
 
 - **July 2025:** Started a Research Scientist Internship at A2 Labs, Arlington, VA.  
 
