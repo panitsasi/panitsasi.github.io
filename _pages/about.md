@@ -9,7 +9,7 @@ I am a PhD candidate in the Department of Electrical and Computer Engineering at
 ## News
 
 - **Spring 2026:** Joining Nokia Bell Labs (Murray Hill, New Jersey) as a Wireless Systems Researcher for the Spring semester.
-- 
+  
 - **December 2025:** Our paper *“FedJam: Multimodal Federated Learning Framework for Jamming Detection”* was accepted to the IEEE Conference on Computer Communications (INFOCOM) 2026, May 18–21, Tokyo, Japan.
 
 - **December 2025:** Our paper *“SlicePilot: Demystifying Network Slice Placement in Heterogeneous Cloud Infrastructures”* was accepted to the IEEE Conference on Computer Communications (INFOCOM) 2026, May 18–21, Tokyo, Japan.
