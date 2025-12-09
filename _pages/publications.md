@@ -10,13 +10,12 @@ Please find my full publication list at [my Google Scholar profile](https://scho
 
 * **Ioannis Panitsas**, Iason Ofeidis, Leandros Tassiulas,  
 “FedJam: Multimodal Federated Learning Framework for Jamming Detection,”  
-*IEEE INFOCOM — IEEE Conference on Computer Communications*, 2026.  
-[pdf](/files/FedJam__Multi_Modal_Federated_Learning_Framework_for_Jamming_Detection.pdf)
+*IEEE INFOCOM — IEEE Conference on Computer Communications*, 2026. [pdf]
+(/files/FedJam__Multi_Modal_Federated_Learning_Framework_for_Jamming_Detection.pdf)
 
 * **Ioannis Panitsas**, T. Atalay, D. Stojadinovic, Angelos Stavrou, Leandros Tassiulas,  
 “SlicePilot: Demystifying Network Slice Placement in Heterogeneous Cloud Infrastructures,”  
-*IEEE INFOCOM — IEEE Conference on Computer Communications*, 2026.  
-[pdf](/files/SlicePilot__Demystifying_Network_Slice_Placement_in_Heterogenous_Cloud_Infrastructures.pdf)
+*IEEE INFOCOM — IEEE Conference on Computer Communications*, 2026.  [pdf](/files/SlicePilot__Demystifying_Network_Slice_Placement_in_Heterogenous_Cloud_Infrastructures.pdf)
 
 * **Ioannis Panitsas**, Yagmur Yigit, Leandros Tassiulas, Leandros Maglaras, Berk Canberk, “JamShield: A Machine Learning Detection System for Over-the-Air Jamming Attacks,” *IEEE International Conference on Communications (ICC)*, 2025. [pdf](/files/JamShield__A_Machine_Learning_Detection_System_for_Over_the_Air_Jamming_Attacks.pdf)
 
