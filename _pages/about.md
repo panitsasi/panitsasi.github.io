@@ -28,12 +28,15 @@ I am a PhD candidate in the Department of Electrical and Computer Engineering at
 
 - **January 2025:** Our paper *“JamShield: A Machine Learning Detection System for Over-the-Air Jamming Attacks”* was accepted to the IEEE International Conference on Communications (ICC) 2025, June 8–12, Montreal, Canada.
 
-- **July 2024:** Started a Research Scientist Internship at Kryptowire Labs, Arlington, VA.  
-
 - **August 2024:** Attended the NSF OAIC Workshop at Mississippi State University and presented my research.
+  
+- **July 2024:** Started a Research Scientist Internship at Kryptowire Labs, Arlington, VA.  
 
 - **June 2024:** Participated in the Colosseum Young Gladiators Workshop at Northeastern University and presented my research to the Colosseum team.
 
-- **January 2024:** Obtained the Master of Science (M.S.) degree in Electrical and Computer Engineering from Yale University.
+- **May 2024:** Obtained the Master of Science (M.S.) degree in Electrical and Computer Engineering from Yale University.
 
 - **January 2023:** Our paper *“Cyber-Twin: Digital Twin-Boosted Autonomous Attack Detection for Vehicular Ad-Hoc Networks”* was accepted to the IEEE International Conference on Communications (ICC) 2024, June 9–13, Denver, CO, USA.
+  
+- **August 2022:** Started my PhD journey!
+
