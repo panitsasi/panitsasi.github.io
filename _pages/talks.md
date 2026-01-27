@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+* **January 2026:** Presented my research at Nokia Bell Labs, Murray Hill, NJ, USA.
 
 * **June 2025:** Presented the paper *“JamShield: A Machine Learning Detection System for Over-the-Air Jamming Attacks”* at the IEEE International Conference on Communications (ICC 2025), Montreal, Quebec, Canada.
 
