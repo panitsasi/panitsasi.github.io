@@ -8,6 +8,11 @@ I am a PhD candidate in the Department of Electrical and Computer Engineering at
 
 ## News
 
+- **Summer 2026:** Joining AT&T Labs (Bedminster, New Jersey) as a Research Intern.
+
+- **May 2026:** Our paper *“TelecomTS: A Multi-Modal Observability Dataset for Time Series and
+Language Analysis”* was accepted to the International Conference on Machine Learning (ICML) 2026. 
+
 - **Spring 2026:** Joining Nokia Bell Labs (Murray Hill, New Jersey) as a Wireless Systems Researcher for the Spring semester.
 
 - **January 2026:** Our paper *“5GC-Bench: A Framework for Stress-Testing and Benchmarking 5G Core VNFs”* was accepted to the IEEE Wireless Communications and Networking Conference (WCNC) 2026. 
