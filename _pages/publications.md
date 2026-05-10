@@ -10,7 +10,7 @@ Please find my full publication list at [my Google Scholar profile](https://scho
 
 * **I. Panitsas**, L. Tassiulas,  
   “TimeRAN: Unifying Time-Series Analytics for Next-Generation Radio Access Networks,”  
-  *under review,  [pdf](/files/TimeRAN__Unifying_Time_Series_Analytics_for_Next_Generation_Radio_Access_Networks.pdf)
+  *under review*,  [pdf](/files/TimeRAN__Unifying_Time_Series_Analytics_for_Next_Generation_Radio_Access_Networks.pdf)
 
 * A. Feng, A. Varvarigos, **I. Panitsas**, D. Fernandez, J. Wei, Y. Guo, J. Chen, A. Maatouk, L. Tassiulas, R. Ying,  
   “TelecomTS: A Multi-Modal Observability Dataset for Time Series and Language Analysis,”  
