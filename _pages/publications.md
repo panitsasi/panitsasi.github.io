@@ -8,6 +8,14 @@ Please find my full publication list at [my Google Scholar profile](https://scho
 
 ## Selected Publications:
 
+* **I. Panitsas**, L. Tassiulas,  
+  “TimeRAN: Unifying Time-Series Analytics for Next-Generation Radio Access Networks,”  
+  *under review,  [pdf](/files/TimeRAN__Unifying_Time_Series_Analytics_for_Next_Generation_Radio_Access_Networks.pdf)
+
+* A. Feng, A. Varvarigos, **I. Panitsas**, D. Fernandez, J. Wei, Y. Guo, J. Chen, A. Maatouk, L. Tassiulas, R. Ying,  
+  “TelecomTS: A Multi-Modal Observability Dataset for Time Series and Language Analysis,”  
+  *International Conference on Machine Learning (ICML)*, 2026. [pdf](/files/TelecomTS_A_Multi_Modal_Observability_Dataset_for_Time_Series_and_Language_Analysis.pdf)
+
 * **I. Panitsas**, I. Ofeidis, L. Tassiulas,  
   “FedJam: Multimodal Federated Learning Framework for Jamming Detection,”  
   *IEEE Conference on Computer Communications (INFOCOM)*, 2026. [pdf](/files/FedJam__Multi_Modal_Federated_Learning_Framework_for_Jamming_Detection.pdf)
