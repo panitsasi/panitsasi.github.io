@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+* **August 2026:** Presented my internship work to the RAN Technology Research Group at AT&T Labs, Bedminster, NJ, USA.
+  
+* **August 2026:** Presented a poster at the AT&T Labs intern poster session, Bedminster, NJ, USA.
+
 * **May 2026:** Presented the paper *“SlicePilot: Demystifying Network Slice Placement in Heterogeneous Cloud Infrastructures
 ”* at the IEEE International Conference on Computer Communications (INFOCOM 2026), Tokyo, Japan.
 
