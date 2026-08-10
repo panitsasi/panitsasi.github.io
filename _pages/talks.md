@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-* **August 2026:** Presented my internship work to the RAN Technology Research Group at AT&T Labs, Bedminster, NJ, USA.
+* **August 2026:** Presented my internship work to the RAN Technology Research Group at AT&T Labs.
   
 * **August 2026:** Presented a poster at the AT&T Labs intern poster session, Bedminster, NJ, USA.
 
