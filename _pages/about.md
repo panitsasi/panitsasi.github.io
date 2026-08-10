@@ -8,6 +8,8 @@ I am a PhD candidate in the Department of Electrical and Computer Engineering at
 
 ## News
 
+- **August 2026:** Filed a U.S. patent with AT&T Labs on conflict detection and mitigation in Open RAN systems.
+  
 - **Summer 2026:** Joining AT&T Labs (Bedminster, New Jersey) as a Research Intern.
 
 - **May 2026:** Our paper *“TelecomTS: A Multi-Modal Observability Dataset for Time Series and
